@@ -1,16 +1,13 @@
-## Hi there 👋
+# My Python Projects 🐍💻
 
-<!--
-**ilyasvvr/ilyasvvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Ilyas, a beginner in Computer Science and Python.  
+This repo contains my small projects and exercises to learn coding 🚀.
 
-Here are some ideas to get you started:
+## Projects 📂
+- Python scripts and small programs 📝
+- CS exercises to practice concepts 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals 🎯
+- Learn programming basics 📚
+- Experiment with small projects 🛠️
+- Build my coding skills 💡
