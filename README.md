@@ -1,13 +1,21 @@
-# My Python Projects 🐍💻
+# Python & CS Projects 🐍
 
-Hi! I'm Ilyass, a beginner in Computer Science and Python.  
-This repo contains my small projects and exercises to learn coding 🚀.
+Computer Science student focused on learning programming, problem-solving, and building small projects.
 
-## Projects 📂
-- Python scripts and small programs 📝
-- CS exercises to practice concepts 🔧
+---
 
-## Goals 🎯
-- Learn programming basics 📚
-- Experiment with small projects 🛠️
-- Build my coding skills 💡
+## 📌 Focus
+- Python programming 🐍
+- Linux & system exploration 🐧
+- Computer Science fundamentals 💡
+- Cybersecurity basics 🔐
+
+---
+
+## 📂 Projects
+You can find my work and experiments in my repositories.
+
+---
+
+## 🚧 Status
+Currently learning and improving step by step.
