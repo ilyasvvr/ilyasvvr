@@ -1,21 +1,17 @@
-# Python & CS Projects 🐍
+# Ilyass
 
-Computer Science student focused on learning programming, problem-solving, and building small projects.
+Interested in UNIX-like operating systems, networking, and cybersecurity.
 
----
+I enjoy exploring different operating systems, experimenting with virtualization, and learning how computers work under the hood.
 
-## 📌 Focus
-- Python programming 🐍
-- Linux & system exploration 🐧
-- Computer Science fundamentals 💡
-- Cybersecurity basics 🔐
+## Currently learning
 
----
+* Python
+* Operating Systems
+* Computer Networking
+* Linux & FreeBSD
+* Cybersecurity
 
-## 📂 Projects
-You can find my work and experiments in my repositories.
+## Philosophy
 
----
-
-## 🚧 Status
-Currently learning and improving step by step.
+I prefer learning by reading documentation, experimenting, breaking things, and fixing them.
